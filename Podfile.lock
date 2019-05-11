@@ -1,0 +1,20 @@
+PODS:
+  - ECDrawerLayout (0.1.7)
+  - IQKeyboardManager (2.5.0)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+
+DEPENDENCIES:
+  - ECDrawerLayout
+  - IQKeyboardManager (~> 2.5.0)
+  - SDWebImage (~> 3.7)
+
+SPEC CHECKSUMS:
+  ECDrawerLayout: 01b1c9b065bacaba78a5efd4d20e94114b830c3a
+  IQKeyboardManager: 76ca561856cbb5ae0b80e51c1d09e51dea093779
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+
+PODFILE CHECKSUM: b8da064ffaab76398d164718cb548395b09c6e86
+
+COCOAPODS: 1.1.1
